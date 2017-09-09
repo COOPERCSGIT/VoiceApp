@@ -1,0 +1,239 @@
+ (
+  {
+  addtime = "2017-02-17 18:12:18";
+  backgrund = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/image/20170217/t1sh2zolk546o34yr591.jpeg";
+  "fav_num" = 0;
+  "is_focus" = 0;
+  length = 10;
+  "play_num" = 0;
+  reurl = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170217/zk427k4bru60tyl4tw3k.mp3";
+  title = "\U4f60\U662f\U4e00\U4e2a\U4eba";
+  "txt_comment" =         (
+                           {
+                           cid = FWQd37GajT5NR;
+                           clength = 0;
+                           content = "\U6211\U4eec\U90fd\U662f\U6211\U6700\U5927\U9650\U5ea6\U51cf\U5c11";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           }
+                           );
+  type =     {
+  tid = 8748350309;
+  title = "\U70ed\U95e8";
+  };
+  user =         {
+  headpic = "";
+  nickname = "\U9ec4\U8d6b\U7136";
+  uid = 5LIs5OWEdaz4;
+  };
+  vid = 0TaPkpIbZV7OE;
+  "voice_comment" =         (
+                             {
+                             cid = iSW1NkTu8MXhP;
+                             clength = 6;
+                             content = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170220/siojgaiuco9u5mybwam9.mp3";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             },
+                             {
+                             cid = 804bZaP8OKrg2H;
+                             clength = 5;
+                             content = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170220/f3rhjaaed7pr52yvyyo2.mp3";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             },
+                             {
+                             cid = dOw0La0DR9rTpt;
+                             clength = 6;
+                             content = "(null)";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             },
+                             {
+                             cid = 1TsLkYL0UMomM3;
+                             clength = 9;
+                             content = "(null)";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             }
+                             );
+  },
+  {
+  addtime = "2017-02-17 18:05:41";
+  backgrund = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/image/20170217/73lhvdma1a587cm3wjch.jpeg";
+  "fav_num" = 0;
+  "is_focus" = 0;
+  length = 10;
+  "play_num" = 0;
+  reurl = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170217/0nycsg6jq5sw33e0xc7u.mp3";
+  title = "\U5728\U4f60\U8eab\U8fb9";
+  "txt_comment" =         (
+  );
+  type =         {
+  tid = 8748350309;
+  title = "\U70ed\U95e8";
+  };
+  user =         {
+  headpic = "";
+  nickname = "\U9ec4\U8d6b\U7136";
+  uid = 5LIs5OWEdaz4;
+  };
+  vid = OyaoIrd7PT;
+  "voice_comment" =         (
+                             {
+                             cid = nAoctiLitk0H;
+                             clength = 11;
+                             content = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170220/mtxhd7vuj9poiyxkxmuv.mp3";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             },
+                             {
+                             cid = ENFDA6lV2C0byE8;
+                             clength = 7;
+                             content = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170220/ge87xokc9uiygos7ym59.mp3";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             },
+                             {
+                             cid = LyBykkjRQCf6yf;
+                             clength = 6;
+                             content = "(null)";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             }
+                             );
+  },
+  
+  {
+  addtime = "2017-02-16 14:28:41";
+  backgrund = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/VaJJrCsmvQXcPh/image/20170216/x9lc7bja3za3rqk5s908.jpeg";
+  "fav_num" = 0;
+  "is_focus" = 1;
+  length = 10;
+  "play_num" = 0;
+  reurl = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/VaJJrCsmvQXcPh/file/20170216/xbrj1dsvowepwvnxcppi.mp3";
+  title = "\U6211\U652f\U6301\U725b\U8089\U9762";
+  "txt_comment" =         (
+                           {
+                           cid = NtArhZTEGPG;
+                           clength = 0;
+                           content = "\U5c31\U79ef\U6781\U53c2\U4e0e";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = H7AaL2mvE8ElwAa;
+                           clength = 0;
+                           content = "\U4f60\U4eec\U90fd\U5728\U60f3\U4ec0\U4e48";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = ASa1Gx3DX2b;
+                           clength = 0;
+                           content = "\U5728\U4f60\U9762\U524d\U4f60\U4e0d\U7231\U6211\U5417\Uff1f";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = L2SAa4NpDT8;
+                           clength = 0;
+                           content = "\U800c\U521a\U521a\U597d";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = Vmbg13jxFu0T6x7;
+                           clength = 0;
+                           content = "\U4f60\U4e5f\U6765\U770b\U770b\U8fd9\U4e9b\U4e1c\U897f\U6211\U4eec\U5728\U4e8e\U6211\U65e0\U5173\U2026\U2026\U4e00\U4e0b";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = H9hL2VcASnXiu;
+                           clength = 0;
+                           content = "\U8089\U4f53\U75bc\U75db";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = dm3aZE8nc4J;
+                           clength = 0;
+                           content = "\U6211\U7684\U4eba";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = UZDZ7TVnCMst;
+                           clength = 0;
+                           content = "\U4f60\U4eec";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = ZlzFrtwJbM;
+                           clength = 0;
+                           content = "\U4f60\U662f\U4e2a\U5927\U7f8e\U5973\U751f\U65e5\U5feb\U4e50";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = 3pKFMR3lxRLpXh;
+                           clength = 0;
+                           content = "\U6211\U53ef\U4ee5\U8bc4\U8bba\U4e48";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           },
+                           {
+                           cid = cLUImy9TLHS;
+                           clength = 0;
+                           content = "\U4f60\U59b9\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a\U554a";
+                           user = "\U9ec4\U8d6b\U7136";
+                           zan = 0;
+                           }
+                           );
+  type =         {
+  tid = 8748350309;
+  title = "\U70ed\U95e8";
+  };
+  user =         {
+  headpic = "http://www.starsound.xyz/yuliao/public/uploads/20161222/03ba5e55a6ce35e6a23acff24810dba9.png";
+  nickname = "\U5f90\U79bb\U9a85";
+  uid = VaJJrCsmvQXcPh;
+  };
+  vid = pvn1TehVPq;
+  "voice_comment" =         (
+                             {
+                             cid = 3da6ISmfYp;
+                             clength = 5;
+                             content = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170220/cl7m8dkuq19rkfxrnier.mp3";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             },
+                             {
+                             cid = iojtmNRBX2o;
+                             clength = 9;
+                             content = "http://yuliao.oss-cn-shanghai.aliyuncs.com/user/5LIs5OWEdaz4/file/20170220/80ci30xq0suefltx7g5y.mp3";
+                             user = "\U9ec4\U8d6b\U7136";
+                             zan = 0;
+                             }
+                             );
+  }
+  )
+
+
+
+
+
+{"data":
+    {"paginator":
+        {"length":2,"offset":0,"page":1,"beginIndex":1,"endIndex":2,"items":2,"lastPage":1,"itemsPerPage":40,"nextPage":1,"pages":1,"firstPage":1,"previousPage":1,"slider":[1]},"adzonesDO":{"name":null,"properties":null,"count":null,"flag":null,"format":null,"status":null,"tag":null,"column":null,"rows":null,"autoGeneratedSite":false,"memberid":13185242,"gcid":8,"siteid":null,"adzoneid":null,"poscode":null,"updatetime":null,"createtime":null,"transtype":null,"distype":null,"sitename":null,"adzonecatids":null,"keywords":null,"targetproducts":null,"needauditing":null,"weekprice":null,"sizecode":null,"adzonesize":null,"standards":null,"hobby":null,"zonedesc":null,"promotionchildtype":null,"createtimefrom":null,"createtimeto":null,"viewscreen":null,"adzoneurl":null,"dayprice":null,"monthprice":null,"canselltime":null,"siteurl":null,"snapshotpath":null,"refusereason":null,"marks":null,"posname":null,"edited":null,"homepage":null,"partnerid":null,"cpmstatus":null,"tagids":null,"tagnames":null,"snapshottime":null,"flowtype":null,"catid":null,"occupation":null,"isJoined":null,"timefrom":null,"timeto":null,"mixPv30day":0,"mixClick30day":0,"mixCtr30day":null,"rec30day":null,"pv":null,"clickRate":"0","oldname":null,"totalclick":null,"totalpv":null,"age":null,"income":null,"sex":null,"nopvflag":null,"updatetimeDateStr":null,"updatetimeTimeStr":null,"sadzoneids":null,"pkg_type":null,"pvPerDay":null,"clickPerDay":null,"pvyestoday":null,"clickyestoday":null,"canselltimeString":null,"wwid":null,"querystatus":null,"bkcolor":null,"bordercolor":null,"titlecolor":null,"txtcolor":null,"lncolor":null,"adzonecatnames":null,"querytranstype":null,"totalcost":null,"adzonePid":"mm_13185242_null_null","sizeWidth":null,"sizeHeight":null,"pvip":null,"cntday":null,"sitedesc":null,"windowsStatus":null,"perthousandcost":null,"pvipPerDay":null,"recommendWeekprice":null,"siteStat":null,"isAudit":null,"transcount":null,"catnames":null,"alexafrom":null,"alexarankinit":null,"alexato":null,"rank":null,"rankinit":null,"pkgStatus":null,"isSanBao":null,"pkgId":null,"transnum":null,"recommStatus":null,"costperk":null,"isBusy":null,"sitesDO":null,"canDailyBuy":"0","textLinkGridNum":0,"cptstatus":null,"cptcheckbox":null,"highRate":null,"wirecatid":null,"cptdaycheckbox":null,"pageWidthCode":null,"joined":null,"pageWidthSize":null,"mixAlipayNum30day":0,"mixAlipayRec30day":null,"orderByColumn1":null,"orderType1":null,"orderByColumn2":null,"orderType2":null,"toPage":1,"perPageSize":40,"startRow":0,"totalItem":0,"totalPage":0,"nextPage":0,"orderStr":null,"previousPage":1,"endRow":0,"firstPage":true,"lastPage":false},"pagelist":[{"name":"爱分享","properties":null,"count":null,"flag":null,"format":null,"status":null,"tag":"29","column":null,"rows":null,"autoGeneratedSite":false,"memberid":13185242,"gcid":8,"siteid":16598349,"adzoneid":61616453,"poscode":null,"updatetime":null,"createtime":null,"transtype":null,"distype":null,"sitename":"爱分享(手机客户端专享)_13185242","adzonecatids":null,"keywords":null,"targetproducts":null,"needauditing":null,"weekprice":null,"sizecode":null,"adzonesize":null,"standards":null,"hobby":null,"zonedesc":null,"promotionchildtype":null,"createtimefrom":null,"createtimeto":null,"viewscreen":null,"adzoneurl":null,"dayprice":null,"monthprice":null,"canselltime":null,"siteurl":null,"snapshotpath":null,"refusereason":null,"marks":null,"posname":null,"edited":null,"homepage":null,"partnerid":null,"cpmstatus":null,"tagids":null,"tagnames":null,"snapshottime":null,"flowtype":null,"catid":null,"occupation":null,"isJoined":null,"timefrom":null,"timeto":null,"mixPv30day":0,"mixClick30day":0,"mixCtr30day":null,"rec30day":0.00,"pv":null,"clickRate":"0","oldname":null,"totalclick":null,"totalpv":null,"age":null,"income":null,"sex":null,"nopvflag":null,"updatetimeDateStr":null,"updatetimeTimeStr":null,"sadzoneids":null,"pkg_type":null,"pvPerDay":null,"clickPerDay":null,"pvyestoday":null,"clickyestoday":null,"canselltimeString":null,"wwid":null,"querystatus":null,"bkcolor":null,"bordercolor":null,"titlecolor":null,"txtcolor":null,"lncolor":null,"adzonecatnames":null,"querytranstype":null,"totalcost":null,"adzonePid":"mm_13185242_16598349_61616453","sizeWidth":null,"sizeHeight":null,"pvip":null,"cntday":null,"sitedesc":null,"windowsStatus":null,"perthousandcost":null,"pvipPerDay":null,"recommendWeekprice":null,"siteStat":null,"isAudit":null,"transcount":null,"catnames":null,"alexafrom":null,"alexarankinit":null,"alexato":null,"rank":null,"rankinit":null,"pkgStatus":null,"isSanBao":null,"pkgId":null,"transnum":null,"recommStatus":null,"costperk":null,"isBusy":null,"sitesDO":null,"canDailyBuy":"0","textLinkGridNum":0,"cptstatus":null,"cptcheckbox":null,"highRate":null,"wirecatid":null,"cptdaycheckbox":null,"pageWidthCode":null,"joined":null,"pageWidthSize":null,"mixAlipayNum30day":0,"mixAlipayRec30day":0.00,"orderByColumn1":null,"orderType1":null,"orderByColumn2":null,"orderType2":null,"toPage":1,"perPageSize":10,"startRow":0,"totalItem":0,"totalPage":0,"nextPage":0,"orderStr":null,"previousPage":1,"endRow":0,"firstPage":true,"lastPage":false},{"name":"百客行手机推广","properties":null,"count":null,"flag":null,"format":null,"status":null,"tag":"29","column":null,"rows":null,"autoGeneratedSite":false,"memberid":13185242,"gcid":8,"siteid":21260318,"adzoneid":71628144,"poscode":null,"updatetime":null,"createtime":null,"transtype":null,"distype":null,"sitename":"百客行推广联盟","adzonecatids":null,"keywords":null,"targetproducts":null,"needauditing":null,"weekprice":null,"sizecode":null,"adzonesize":null,"standards":null,"hobby":null,"zonedesc":null,"promotionchildtype":null,"createtimefrom":null,"createtimeto":null,"viewscreen":null,"adzoneurl":null,"dayprice":null,"monthprice":null,"canselltime":null,"siteurl":null,"snapshotpath":null,"refusereason":null,"marks":null,"posname":null,"edited":null,"homepage":null,"partnerid":null,"cpmstatus":null,"tagids":null,"tagnames":null,"snapshottime":null,"flowtype":null,"catid":null,"occupation":null,"isJoined":null,"timefrom":null,"timeto":null,"mixPv30day":0,"mixClick30day":7,"mixCtr30day":null,"rec30day":0.00,"pv":null,"clickRate":"0","oldname":null,"totalclick":null,"totalpv":null,"age":null,"income":null,"sex":null,"nopvflag":null,"updatetimeDateStr":null,"updatetimeTimeStr":null,"sadzoneids":null,"pkg_type":null,"pvPerDay":null,"clickPerDay":null,"pvyestoday":null,"clickyestoday":null,"canselltimeString":null,"wwid":null,"querystatus":null,"bkcolor":null,"bordercolor":null,"titlecolor":null,"txtcolor":null,"lncolor":null,"adzonecatnames":null,"querytranstype":null,"totalcost":null,"adzonePid":"mm_13185242_21260318_71628144","sizeWidth":null,"sizeHeight":null,"pvip":null,"cntday":null,"sitedesc":null,"windowsStatus":null,"perthousandcost":null,"pvipPerDay":null,"recommendWeekprice":null,"siteStat":null,"isAudit":null,"transcount":null,"catnames":null,"alexafrom":null,"alexarankinit":null,"alexato":null,"rank":null,"rankinit":null,"pkgStatus":null,"isSanBao":null,"pkgId":null,"transnum":null,"recommStatus":null,"costperk":null,"isBusy":null,"sitesDO":null,"canDailyBuy":"0","textLinkGridNum":0,"cptstatus":null,"cptcheckbox":null,"highRate":null,"wirecatid":null,"cptdaycheckbox":null,"pageWidthCode":null,"joined":null,"pageWidthSize":null,"mixAlipayNum30day":0,"mixAlipayRec30day":0.00,"orderByColumn1":null,"orderType1":null,"orderByColumn2":null,"orderType2":null,"toPage":1,"perPageSize":10,"startRow":0,"totalItem":0,"totalPage":0,"nextPage":0,"orderStr":null,"previousPage":1,"endRow":0,"firstPage":true,"lastPage":false}]},"info":{"message":null,"pvid":"60_183.128.236.68_418_1489650037480","ok":true},"ok":true,"invalidKey":null}
+
+
+
+
+
+
+
+
+
